@@ -1,0 +1,46 @@
+    table, td {
+
+        border: 1px solid black;
+        border-collapse: collapse;
+ }
+
+ body {
+     background-color: gray ;
+ }
+table{background-color: wheat;}
+.texto1{text-align: center; }
+header{background-color: aqua; height: 33px; width: 15%; margin: auto   ;}
+h3{background-color: aquamarine;}
+h2{background-color: aliceblue; text-align: center; margin: 10px; width: auto; height: auto;}
+header{text-align: center; }
+nav {background-color: aliceblue;text-align: center; ;}
+h1{background: skyblue; border: 1px;margin: auto; width: 100%; height: auto;}
+body{
+	font-family: arial, helvetica;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+

@@ -1,0 +1,19 @@
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 100px;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+h1,h3{text-align: center;}
+h1{margin: auto;width: 30%; height: 75;background-color:skyblue;}
+h3{border: #092327 2px; background-color: skyblue; ;}
+h2{text-align: center; background-color: skyblue;}
+body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
